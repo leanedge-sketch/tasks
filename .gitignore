@@ -1,0 +1,9 @@
+.venv
+venv/
+
+documents/
+
+# Environment variables (never commit secrets)
+.env
+.venv312/
+.venv312

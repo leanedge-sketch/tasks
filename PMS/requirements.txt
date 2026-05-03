@@ -1,0 +1,15 @@
+streamlit
+pytesseract
+python-dotenv
+supabase
+ocrmypdf
+langchain
+pypdf
+google-generativeai
+pdfplumber
+PyPDF2
+python-docx
+pandas
+openpyxl
+fuzzywuzzy
+python-Levenshtein
